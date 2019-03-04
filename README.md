@@ -107,6 +107,7 @@ SONiC
 - [Containernet](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
 - [Tinynet](https://github.com/John-Lin/tinynet) - A lightweight instant virtual network for rapid prototyping SDN
 - [MaxiNet](http://maxinet.github.io) - MaxiNet extends the famous Mininet emulation environment to span the emulation across several physical machines. This allows to emulate very large software-defined networks.
+- Omnet++ (https://github.com/lsinfo3/ofomnet/commit/3dcd6080cf9264d2c9a1bd25d4d273b690117564)-Discrete Event Simulator (https://omnetpp.org/)
 
 # Language
 
